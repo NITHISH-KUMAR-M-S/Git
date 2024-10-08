@@ -6,7 +6,7 @@ let b = prompt('Enter the second variable: ');
 
 //create a temporary variable
 let temp;
-
+//HELLO WORLD its nithish
 //swap variables
 temp = a;
 a = b;
